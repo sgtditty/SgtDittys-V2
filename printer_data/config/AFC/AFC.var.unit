@@ -1,0 +1,17 @@
+{
+    "Turtle_1": {},
+    "system": {
+        "current_load": null,
+        "num_units": 1,
+        "num_lanes": 0,
+        "num_extruders": 1,
+        "extruders": {
+            "extruder": {
+                "lane_loaded": null
+            }
+        },
+        "bypass": {
+            "enabled": false
+        }
+    }
+}
