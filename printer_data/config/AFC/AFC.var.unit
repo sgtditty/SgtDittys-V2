@@ -67,7 +67,7 @@
             "runout_lane": "NONE",
             "filament_status": "Prep",
             "filament_status_led": "#ffffff",
-            "status": null
+            "status": "ejecting"
         },
         "lane4": {
             "name": "lane4",
