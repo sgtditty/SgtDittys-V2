@@ -50,7 +50,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Calibrating"
+            "status": "None"
         },
         "lane3": {
             "name": "lane3",
@@ -76,7 +76,7 @@
             "runout_lane": "lane2",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "None"
+            "status": "Calibrating"
         },
         "lane4": {
             "name": "lane4",
