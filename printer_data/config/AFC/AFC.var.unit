@@ -62,7 +62,7 @@
             "lane": 3,
             "map": "T2",
             "load": true,
-            "prep": false,
+            "prep": true,
             "tool_loaded": true,
             "loaded_to_hub": true,
             "material": null,
@@ -74,8 +74,8 @@
             "weight": 748.9358152658762,
             "extruder_temp": null,
             "runout_lane": "lane4",
-            "filament_status": "Not Ready",
-            "filament_status_led": "#ff0000",
+            "filament_status": "In Tool",
+            "filament_status_led": "#0000ff",
             "status": "Tool Unloading"
         },
         "lane4": {
